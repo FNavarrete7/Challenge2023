@@ -1,0 +1,10 @@
+C:\Users\FNavarrete\source\repos\Challenge\Mapper\bin\Debug\netcoreapp3.1\Mapper.deps.json
+C:\Users\FNavarrete\source\repos\Challenge\Mapper\bin\Debug\netcoreapp3.1\Mapper.dll
+C:\Users\FNavarrete\source\repos\Challenge\Mapper\bin\Debug\netcoreapp3.1\Mapper.pdb
+C:\Users\FNavarrete\source\repos\Challenge\Mapper\obj\Debug\netcoreapp3.1\Mapper.csproj.AssemblyReference.cache
+C:\Users\FNavarrete\source\repos\Challenge\Mapper\obj\Debug\netcoreapp3.1\Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FNavarrete\source\repos\Challenge\Mapper\obj\Debug\netcoreapp3.1\Mapper.AssemblyInfoInputs.cache
+C:\Users\FNavarrete\source\repos\Challenge\Mapper\obj\Debug\netcoreapp3.1\Mapper.AssemblyInfo.cs
+C:\Users\FNavarrete\source\repos\Challenge\Mapper\obj\Debug\netcoreapp3.1\Mapper.csproj.CoreCompileInputs.cache
+C:\Users\FNavarrete\source\repos\Challenge\Mapper\obj\Debug\netcoreapp3.1\Mapper.dll
+C:\Users\FNavarrete\source\repos\Challenge\Mapper\obj\Debug\netcoreapp3.1\Mapper.pdb

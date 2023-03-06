@@ -1,0 +1,17 @@
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\bin\Debug\netcoreapp3.1\UnitOfWork.dll
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\bin\Debug\netcoreapp3.1\UnitOfWork.pdb
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\FNavarrete\source\repos\Challenge\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb

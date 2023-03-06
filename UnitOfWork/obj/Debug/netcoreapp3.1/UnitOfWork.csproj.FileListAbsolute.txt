@@ -1,0 +1,15 @@
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\bin\Debug\netcoreapp3.1\UnitOfWork.deps.json
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\bin\Debug\netcoreapp3.1\UnitOfWork.dll
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\bin\Debug\netcoreapp3.1\UnitOfWork.pdb
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.csproj.AssemblyReference.cache
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.AssemblyInfo.cs
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.csproj.CopyComplete
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.dll
+C:\Users\FNavarrete\source\repos\Challenge\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.pdb

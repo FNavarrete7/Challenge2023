@@ -1,0 +1,10 @@
+C:\Users\FNavarrete\source\repos\Challenge\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\FNavarrete\source\repos\Challenge\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\FNavarrete\source\repos\Challenge\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\FNavarrete\source\repos\Challenge\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Users\FNavarrete\source\repos\Challenge\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FNavarrete\source\repos\Challenge\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\FNavarrete\source\repos\Challenge\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\FNavarrete\source\repos\Challenge\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\FNavarrete\source\repos\Challenge\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\FNavarrete\source\repos\Challenge\Models\obj\Debug\netcoreapp3.1\Models.pdb
